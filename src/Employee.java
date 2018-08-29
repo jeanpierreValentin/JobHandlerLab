@@ -80,7 +80,7 @@ public class Employee {
 	 */
 	public int seniorityLevel() {
 		
-		//Add Code Here [You have to use If/Else to get graded]
+		
 		
 		if(getYearsOfService() >=10)
 		{
